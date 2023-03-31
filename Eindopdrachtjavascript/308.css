@@ -1,0 +1,19 @@
+.BAC{
+    border:  2px;
+    border-color: black;
+    border-style: dotted;
+    color: white;
+    max-width: fit-content  ;
+    margin: auto;
+}
+
+.img{
+   max-height: 340px;
+   min-height: 339px;
+   
+}
+
+
+#body{
+    text-align: center;
+}
